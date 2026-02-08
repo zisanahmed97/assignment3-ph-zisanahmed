@@ -10,5 +10,5 @@ function validOtp(otp){
     }
 }
 
-const result = validOtp(["ph-10985"] );
-console.log(result);
+// const result = validOtp(["ph-10985"] );
+// console.log(result);
